@@ -1,10 +1,10 @@
-// swift-tools-version: 5.9
+// swift-tools-version: 6.0
 
 import PackageDescription
 
 let package = Package(
     name: "aerospace-workspace-switcher",
-    platforms: [.macOS(.v13)],
+    platforms: [.macOS(.v14)],
     products: [
         .executable(name: "aerospace-workspace-switcher", targets: ["aerospace-workspace-switcher"]),
         .library(name: "WorkspaceSwitcherCore", targets: ["WorkspaceSwitcherCore"]),
