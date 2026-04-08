@@ -1,0 +1,9 @@
+Obsidian	Obsidian Vault - Obsidian 1.12.7	2
+Ghostty	Build omni-document LLM knowledge system	3
+Ghostty	Claude Code	4
+Ghostty	Add workspace switcher menu to aerospace	5
+Cursor	cli.py — anyrun	6
+Ghostty	vim .	7
+Spotify	Spotify Premium	C
+WhatsApp	Software Update	V
+WhatsApp	WhatsApp	V
