@@ -11,11 +11,11 @@ A native macOS Spotlight-style workspace switcher for [AeroSpace](https://github
 - FOCUSED / VISIBLE workspace badges
 - Keyboard-driven: arrow keys to navigate, Enter to switch, Escape to dismiss
 - Fast startup — only 3 `aerospace` CLI calls
-- Single-file Swift, no external dependencies
+- Pure Swift, no external dependencies
 
 ## Requirements
 
-- macOS 13.0+
+- macOS 14.0+
 - [AeroSpace](https://github.com/nikitabobko/AeroSpace) installed and running
 
 ## Install
@@ -60,6 +60,20 @@ Then reload your AeroSpace config (`alt-shift-;` → `esc` in the default config
 4. Use arrow keys (or Tab/Shift-Tab) to navigate
 5. Press Enter to switch to the selected workspace
 6. Press Escape to dismiss
+
+## Development
+
+### Run tests
+
+```bash
+make test
+```
+
+### Build
+
+```bash
+make
+```
 
 ## Prior art
 
